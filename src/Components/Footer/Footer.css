@@ -1,0 +1,20 @@
+.footerMsg{
+    text-align: center;
+    height:20vh;
+    background-color: cadetblue;
+    display: flex;
+   
+    
+
+}
+
+.footerMsg >div{
+    display: flex;
+    margin-top: 35px;
+    margin:auto;
+    gap:10px;
+}
+
+.contactUs{
+    color:aqua
+}

@@ -1,0 +1,30 @@
+
+.signupForm{
+    margin-top: 80px;
+    display: flex;
+    flex-direction:column ;
+    gap:10px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.signupBtn{
+    margin:auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color:coral;
+    width:70px;
+    height:35px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: none;
+}
+
+.login{
+    display: flex;
+    margin-left: 500px;
+    margin-top: 10px;
+    gap:10px;
+}

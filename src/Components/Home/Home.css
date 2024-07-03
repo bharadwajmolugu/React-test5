@@ -1,0 +1,16 @@
+.homeMessage{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:70vh;
+    background-image: url('./bg.avif');
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.headline{
+    color:white;
+}
+

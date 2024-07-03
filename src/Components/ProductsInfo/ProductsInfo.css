@@ -1,0 +1,43 @@
+.eachImage{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    gap:30px;
+
+
+}
+
+
+.eachImage img{
+    height: 150px;
+    width:150px;
+}
+
+.eachImage strong{
+    display: flex;
+    flex-direction: column ;
+}
+
+.price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cart{
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+
+.productInfo{
+    height:70vh;
+}
+
+.productInfo h1{
+    text-align: center;
+    font-size: large;
+}
+
+
+/*  */
